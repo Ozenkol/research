@@ -1,0 +1,54 @@
+Changelog – Maximum Entropy Image Reconstruction for Radio
+Astronomy using Python library
+
+1. General Structure
+- Modified: Title capitalization and formatting refined in the PDF.
+- Added: Proper section numbering and formatting.
+- Modified: Improved layout with spacing, figure captions, and page breaks.
+
+2. Abstract
+- Modified: Improved wording and sentence structure
+- Added: Correct punctuation and grammar.
+- Modified: "provide numerical experiments" → "provides numerical experiments".
+
+3. I. Research Proposal
+- Modified: Sentences restructured for clarity and flow.
+- Added: Philosophical basis for modeling better explained.
+
+4. II. Introduction
+- Modified: Grammar fixes
+- Added: Clarified the relationship between physical models and engineering use.
+
+5. III. Modeling of Physical and Mathematical Model
+- Modified: Equations are formatted more clearly.
+- Added: Better variable explanations and structure.
+
+6. IV. Modeling of Information Model
+- Modified: Improved academic language and structure.
+- Added: Clear definitions of entropy and digital image characteristics.
+
+7. V. Modeling Numerical Model
+- Modified: Clearer link between image properties and numerical data.
+- Added: Expanded on how is used in computation.
+
+8. VI. Experiments
+- Modified: Subsections (“Objective,” “Methodology,” “Implementation”) improved.
+- Added: Enhanced formatting and explanation of code functions.
+
+9. Code
+- Modified: Python functions and docstrings cleaned and aligned.
+- Added: Code blocks more readable and syntactically correct in PDF.
+
+10. VII. Results and Analysis
+- Added: Figure caption and clearer context of entropy result.
+- Modified: Language improved for explaining outcomes.
+
+11. VIII. Conclusions and Possible Improvements
+- Modified: Grammar fixed
+- Added: Clear statement about future research directions (e.g., medical imaging).
+
+Summary:
+- Final version includes better formatting, grammar, and complete code.
+- Clearer structure and explanations throughout.
+- More polished and publication-ready.
+
