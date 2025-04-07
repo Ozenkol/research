@@ -1,0 +1,20 @@
+Instructions: 
+
+Naming: For each < filename >.oifits file in the folder oifits generate a FITS image of size 64x64 with the name < filename >.fits
+
+Field of View (FOV): The FOV in arcseconds that you must use for each image reconstruction is specified on the first line of <filename>.txt in the folder 'paramsRec' 
+
+Total Flux Density: We provide you with the total flux density of the source. Reconstruct images assuming the units Janskys/pixel. Therefore, ideally, the sum of the pixel values in your image would be equal to the total flux density. This value is specified (in Janskys) on the second line of <filename>.txt in the folder 'paramsRec' 
+
+Submitting: Submit a zip file containing JUST your fits images (Do not zip a folder containing the images, just zip the images).  
+
+
+Additional Tips: 
+
+Parameters: All the necessary information should be contained in the OIFITS files. However, you can use the url's specified in the folder 'url' to view the parameters in a more user friendly layout. You can also use this to verify that you are reading the OIFITS file correctly. 
+
+Image Convention: Make sure that your reconstructions use the same left-right up-down flipping conventions as us. To test that your resulting images use our convention, test some results using the training data and see that it matches the ground truth image. If your results are flipped with respect to our ground truth images, make sure to flip them appropriately before submitting results for evaluation. 
+
+
+Good Luck!
+
